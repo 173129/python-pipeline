@@ -1,0 +1,9 @@
+service:
+  name: Naksh
+  identifier: Naksh
+  serviceDefinition:
+    type: Kubernetes
+    spec: {}
+  gitOpsEnabled: false
+  orgIdentifier: default
+  projectIdentifier: Pythondemo
